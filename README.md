@@ -18,5 +18,12 @@ This project implements an automated pollen detection system that can:
 - **Real-time Counting**: Automated pollen occurrence counting
 - **REST API**: Easy integration with other applications
 
+## Training Results
+
+![Alt text](https://github.com/ismailbokri/Pollen_Detection_C_V/blob/096d0c91031edce09ebf8b0f937ea4416042e93d/5.PNG)
+![Alt text](https://github.com/ismailbokri/Pollen_Detection_C_V/blob/096d0c91031edce09ebf8b0f937ea4416042e93d/4.PNG)
+
 ## DEMO 
+
+![Alt text](https://github.com/ismailbokri/Pollen_Detection_C_V/blob/096d0c91031edce09ebf8b0f937ea4416042e93d/bibi.PNG)
 
